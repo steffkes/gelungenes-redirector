@@ -55,6 +55,7 @@ server.get(
               <head>
                 <title>Gemischtes Doppel: Feuerwehr-Treppenlauf für Mix-Teams</title>
                 <meta name="description" content="Interesse? Geplant für 2025! Dann direkt eintragen und mit dabei sein">
+                <meta property="og:image" content="/gemischtes-doppel-feuerwehr-treppenlauf-fuer-mix-teams/og_image.jpg">
               </head>
               <body>WhatsApp preview</body>
             </html>` + "\n",
